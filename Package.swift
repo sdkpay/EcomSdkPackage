@@ -10,8 +10,8 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "EcomSdkPackage",
-            targets: ["EcomSdkPackage"]),
+            name: "EcomSdk",
+            targets: ["EcomSdk"]),
     ],
     targets: [
         .binaryTarget(name: "EcomSdk",
