@@ -3,7 +3,6 @@
 // swift-module-flags: -target arm64-apple-ios14.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name EcomSdk
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFAudio
-import ClickstreamAnalytics
 import Combine
 import CommonCrypto
 import CoreLocation

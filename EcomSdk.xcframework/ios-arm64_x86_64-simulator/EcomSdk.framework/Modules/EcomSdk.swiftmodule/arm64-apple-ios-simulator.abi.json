@@ -969,13 +969,6 @@
       },
       {
         "kind": "Import",
-        "name": "ClickstreamAnalytics",
-        "printedName": "ClickstreamAnalytics",
-        "declKind": "Import",
-        "moduleName": "EcomSdk"
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -7316,8 +7309,15 @@
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/ecom-ios\/EcomSdk\/Services\/AnalyticsService\/AnalyticsService.swift",
+      "kind": "Array",
+      "offset": 806,
+      "length": 54,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/ecom-ios\/EcomSdk\/Services\/AnalyticsService\/AnalyticsService.swift",
       "kind": "StringLiteral",
-      "offset": 1580,
+      "offset": 1582,
       "length": 12,
       "value": "\"SDKVersion\""
     },
@@ -9679,27 +9679,6 @@
       "offset": 345,
       "length": 46,
       "value": "\"dv+zU0Hr6oZbCiGWUSByMDLA9vDa8C6dvBvHs1M9Qhk=\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/ecom-ios\/EcomSdk\/Services\/AnalyticsService\/ClickstreamAnalyticsService.swift",
-      "kind": "StringLiteral",
-      "offset": 244,
-      "length": 71,
-      "value": "\"https:\/\/vito.sbrf.ru:443\/mbeacon\/7e4bdb68-cd47-4ecc-b649-69eb5cd44c91\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/ecom-ios\/EcomSdk\/Services\/AnalyticsService\/ClickstreamAnalyticsService.swift",
-      "kind": "StringLiteral",
-      "offset": 340,
-      "length": 38,
-      "value": "\"63bb5224-894a-41f6-a558-d4ab8e62e21a\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/ecom-ios\/EcomSdk\/Services\/AnalyticsService\/ClickstreamAnalyticsService.swift",
-      "kind": "Dictionary",
-      "offset": 1620,
-      "length": 3,
-      "value": "[]"
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/ecom-ios\/EcomSdk\/Extensions\/Collection+Extensions.swift",
