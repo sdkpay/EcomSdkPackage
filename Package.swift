@@ -13,16 +13,12 @@ let package = Package(
             name: "EcomSdkPackage",
             targets: ["EcomSdkPackage"]),
     ],
-    dependencies: [
-        .package(url: "https://github.com/amosavian/JWSETKit", .upToNextMinor(from: "10.0"))
-    ],
     targets: [
         .binaryTarget(name: "EcomSdk",
                       path: "EcomSdk.xcframework"),
         .target(name: "SPaySdkPackage",
                 dependencies: [
-                    .target(name: "EcomSdk"),
-                    .product(name: "JWSETKit", package: "JWSETKit")
+                    .target(name: "EcomSdk")
                 ],
                 path: "./"
     )
