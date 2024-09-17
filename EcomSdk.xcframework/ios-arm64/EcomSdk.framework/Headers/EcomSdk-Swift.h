@@ -381,7 +381,7 @@ SWIFT_CLASS("_TtC7EcomSdk9SBPButton")
 
 SWIFT_CLASS_NAMED("SBankInvoicePaymentRequest")
 @interface SBankInvoiceIdPaymentRequest : NSObject
-- (nonnull instancetype)initWithMerchantLogin:(NSString * _Nullable)merchantLogin bankInvoiceId:(NSString * _Nonnull)bankInvoiceId orderNumber:(NSString * _Nonnull)orderNumber language:(NSString * _Nullable)language redirectUri:(NSString * _Nonnull)redirectUri apiKey:(NSString * _Nullable)apiKey OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithMerchantLogin:(NSString * _Nullable)merchantLogin bankInvoiceId:(NSString * _Nonnull)bankInvoiceId orderNumber:(NSString * _Nonnull)orderNumber language:(NSString * _Nullable)language apiKey:(NSString * _Nullable)apiKey OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end

@@ -3746,7 +3746,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(merchantLogin:bankInvoiceId:orderNumber:language:redirectUri:apiKey:)",
+            "printedName": "init(merchantLogin:bankInvoiceId:orderNumber:language:apiKey:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3798,12 +3798,6 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
                 "name": "Optional",
                 "printedName": "Swift.String?",
                 "children": [
@@ -3819,10 +3813,10 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@EcomSdk@objc(cs)SBankInvoiceIdPaymentRequest(im)initWithMerchantLogin:bankInvoiceId:orderNumber:language:redirectUri:apiKey:",
-            "mangledName": "$s7EcomSdk26SBankInvoicePaymentRequestC13merchantLogin04bankD2Id11orderNumber8language11redirectUri6apiKeyACSSSg_S2SAJSSAJtcfc",
+            "usr": "c:@M@EcomSdk@objc(cs)SBankInvoiceIdPaymentRequest(im)initWithMerchantLogin:bankInvoiceId:orderNumber:language:apiKey:",
+            "mangledName": "$s7EcomSdk26SBankInvoicePaymentRequestC13merchantLogin04bankD2Id11orderNumber8language6apiKeyACSSSg_S2SA2Itcfc",
             "moduleName": "EcomSdk",
-            "objc_name": "initWithMerchantLogin:bankInvoiceId:orderNumber:language:redirectUri:apiKey:",
+            "objc_name": "initWithMerchantLogin:bankInvoiceId:orderNumber:language:apiKey:",
             "declAttributes": [
               "AccessControl",
               "ObjC"
@@ -8114,7 +8108,7 @@
     {
       "filePath": "\/Users\/20828378\/Desktop\/ecom-ios\/EcomSdk\/Managers\/BuildSettings\/BuildSettings.swift",
       "kind": "BooleanLiteral",
-      "offset": 904,
+      "offset": 905,
       "length": 4,
       "value": "true"
     },

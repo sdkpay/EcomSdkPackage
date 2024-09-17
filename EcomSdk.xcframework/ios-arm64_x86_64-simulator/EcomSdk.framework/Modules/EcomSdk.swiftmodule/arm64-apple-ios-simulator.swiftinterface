@@ -103,7 +103,7 @@ public enum SBAxis {
   @objc deinit
 }
 @objc(SBankInvoiceIdPaymentRequest) final public class SBankInvoicePaymentRequest : ObjectiveC.NSObject {
-  @objc public init(merchantLogin: Swift.String? = nil, bankInvoiceId: Swift.String, orderNumber: Swift.String, language: Swift.String? = nil, redirectUri: Swift.String, apiKey: Swift.String? = nil)
+  @objc public init(merchantLogin: Swift.String? = nil, bankInvoiceId: Swift.String, orderNumber: Swift.String, language: Swift.String? = nil, apiKey: Swift.String? = nil)
   @objc deinit
 }
 @objc public enum SPayState : Swift.Int {

@@ -26,7 +26,7 @@
 		</data>
 		<key>Headers/EcomSdk-Swift.h</key>
 		<data>
-		jqamxA8n7zkR2vQrwI6C3X7/VBI=
+		lqIi6w8I6UVd36JfjU+pQjZa5I4=
 		</data>
 		<key>Headers/EcomSdk.h</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/EcomSdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		7Hk+bCQOi9ehnR0RdAAVYC3NHZ0=
+		egose6AWlpp66hFvCEQLTHMKQ00=
 		</data>
 		<key>Modules/EcomSdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		BonFwK8qrtaQHvF8pWih4ZgWNDE=
+		bBxf+yV+8GO14Sp1Fp4C6eHSiL8=
 		</data>
 		<key>Modules/EcomSdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,19 +54,19 @@
 		</data>
 		<key>Modules/EcomSdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		BonFwK8qrtaQHvF8pWih4ZgWNDE=
+		bBxf+yV+8GO14Sp1Fp4C6eHSiL8=
 		</data>
 		<key>Modules/EcomSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		MNL9tiTT9psmaPuBE70GxvQ6yFw=
+		+r7r8JAXTqQ00GECHVHZQeIqPTU=
 		</data>
 		<key>Modules/EcomSdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		7Hk+bCQOi9ehnR0RdAAVYC3NHZ0=
+		egose6AWlpp66hFvCEQLTHMKQ00=
 		</data>
 		<key>Modules/EcomSdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		jAjVeGF9l8/KLqRJ9god7e6e0Po=
+		VQsYFQcLAofxAlT2tFxBsE4oowY=
 		</data>
 		<key>Modules/EcomSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Modules/EcomSdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		jAjVeGF9l8/KLqRJ9god7e6e0Po=
+		VQsYFQcLAofxAlT2tFxBsE4oowY=
 		</data>
 		<key>Modules/EcomSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		B1o/89MNKJEOsg798aSCU03wb0M=
+		fXivFOpKseZbgP00m7H9UhGKGxw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -174,7 +174,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kOO+gDZWUvcewh5ErU1LDgNxTXXutyZVlfhyDzffyuI=
+			6dXzXq8LqKJODmyqC3gC/Q4yj0ULlrhSb6pQcDgm84s=
 			</data>
 		</dict>
 		<key>Headers/EcomSdk.h</key>
@@ -195,14 +195,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dvtcFlfxvRWK+zR5De0d4mGokYy3I5PP1h7kzqOnn/I=
+			ls2dZyEz7EDv7wu6I6veb6d6BXcOWzEqP+ewRxici4c=
 			</data>
 		</dict>
 		<key>Modules/EcomSdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gSRp18d4n4YAHVEdH7wdII9TyepOiVa94PXaZugf41E=
+			XymuIyIDipxWz85m0/GyvhxRrPCVLWmBQQNaLiqetU8=
 			</data>
 		</dict>
 		<key>Modules/EcomSdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -216,28 +216,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gSRp18d4n4YAHVEdH7wdII9TyepOiVa94PXaZugf41E=
+			XymuIyIDipxWz85m0/GyvhxRrPCVLWmBQQNaLiqetU8=
 			</data>
 		</dict>
 		<key>Modules/EcomSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RUCEW3SlANQbX1u6Rg0L3I9J7eaVd8hphjE4Y/j5IhQ=
+			7/1GKu5Cr4MWO4JWR0a8xud/9GZQ3rhkcYJvIzo2dkU=
 			</data>
 		</dict>
 		<key>Modules/EcomSdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dvtcFlfxvRWK+zR5De0d4mGokYy3I5PP1h7kzqOnn/I=
+			ls2dZyEz7EDv7wu6I6veb6d6BXcOWzEqP+ewRxici4c=
 			</data>
 		</dict>
 		<key>Modules/EcomSdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TLMlqQKeVsaiitqftgBC+cDco4bAwHm0Trodkl8bWV0=
+			ENtujBlrQGYOuMjjJR+MWAmY3LjuFEf/gJj8cxFgo4Y=
 			</data>
 		</dict>
 		<key>Modules/EcomSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -251,14 +251,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TLMlqQKeVsaiitqftgBC+cDco4bAwHm0Trodkl8bWV0=
+			ENtujBlrQGYOuMjjJR+MWAmY3LjuFEf/gJj8cxFgo4Y=
 			</data>
 		</dict>
 		<key>Modules/EcomSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			29vz3jOJkhitoudO3uSMM9bX0TAWQe5kBfoQ/AteyiE=
+			mVHTe4U/z5Dqy+gPN6joW85Dm00YV2P1awiRO0KzEKc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
