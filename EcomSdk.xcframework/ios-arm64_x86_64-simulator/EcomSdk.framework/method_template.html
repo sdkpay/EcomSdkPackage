@@ -1,0 +1,18 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<title>Redirect to ACS</title>
+	</head>
+	<body bgcolor="#$bgColor$" OnLoad="OnLoadEvent();">
+		<form name="downloadForm" action="$action$" method="POST">
+			<input type="hidden" name="$name$" value="$value$">
+			<noscript>
+				<center>Please click the submit button below.<br>
+				<input type="submit" name="submit" value="Submit"/>
+			</noscript>
+		</form>
+		<SCRIPT LANGUAGE="Javascript">
+		  function OnLoadEvent() { document.downloadForm.submit(); }
+		</SCRIPT>
+	</body>
+</html>

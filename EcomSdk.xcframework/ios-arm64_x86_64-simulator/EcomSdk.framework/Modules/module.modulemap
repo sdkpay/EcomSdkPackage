@@ -1,0 +1,11 @@
+framework module EcomSdk {
+  umbrella header "EcomSdk.h"
+  export *
+
+  module * { export * }
+}
+
+module EcomSdk.Swift {
+  header "EcomSdk-Swift.h"
+  requires objc
+}
